@@ -1,0 +1,18 @@
+{
+  "version": "4",
+  "redirects": {
+    "https://esm.sh/@google/generative-ai": "https://esm.sh/@google/generative-ai@0.21.0"
+  },
+  "remote": {
+    "https://deno.land/std@0.219.0/dotenv/mod.ts": "0180eaeedaaf88647318811cdaa418cc64dc51fb08354f91f5f480d0a1309f7d",
+    "https://deno.land/std@0.219.0/dotenv/parse.ts": "09977ff88dfd1f24f9973a338f0f91bbdb9307eb5ff6085446e7c423e4c7ba0c",
+    "https://deno.land/std@0.219.0/dotenv/stringify.ts": "0047ad7068289735d08964046aea267a750c141b494ca0e38831b89be6c020c2",
+    "https://esm.sh/@google/generative-ai@0.21.0": "c50ac2729c07a30e82649ed868dbd424d8c37121206b74ded320559908856ff1",
+    "https://esm.sh/@google/generative-ai@0.21.0/denonext/generative-ai.mjs": "528c34720a54c74addf4d7e37f0eec397983af387d30b6edd07f6486ffd5cd0a"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/assert@1"
+    ]
+  }
+}
